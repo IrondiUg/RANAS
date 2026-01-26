@@ -23,7 +23,7 @@ pip install bs4
 
 rm -rf File11
 
-git clone https://github.com/Rananadeem5214/File11.git
+git clone https://github.com/IrondiUg/RANAS
 
 cd File11
 
